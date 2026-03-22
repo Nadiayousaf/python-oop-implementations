@@ -14,3 +14,18 @@ This repository contains my structured practice of Object-Oriented Programming (
 
 ---
 
+python-oop-practice/
+│
+├── basics/
+│   ├── classes_objects.py
+│   ├── encapsulation.py
+│   ├── inheritance.py
+│   ├── polymorphism.py
+│   └── abstraction.py
+
+###Student Management System ;
+<img width="1920" height="975" alt="Screenshot (1232)" src="https://github.com/user-attachments/assets/32531c28-445f-4f69-bed0-647298ae6689" />
+###Hosiptal Management System:
+<img width="1920" height="1005" alt="Screenshot (1233)-DESKTOP-0KR1EVK" src="https://github.com/user-attachments/assets/145bf6af-b151-45db-b2c9-e63fba78f7d5" />
+### Atm simulation 
+<img width="1920" height="950" alt="Screenshot (1234)" src="https://github.com/user-attachments/assets/c7ab5d48-d05e-497a-a805-57ee22a073a2" />
